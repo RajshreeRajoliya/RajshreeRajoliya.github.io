@@ -1,18 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.143c25de.css",
-    "main.js": "/static/js/main.9cd06b86.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/WalmartApp.png": "/static/media/WalmartApp.58ee8023b3a250a6480f.png",
-    "static/media/ash.png": "/static/media/ash.baa7b641d7987334c80b.png",
-    "static/media/ACKOApp.png": "/static/media/ACKOApp.ef0383427ec00120736b.png",
+    "main.css": "/static/css/main.90ac94b1.css",
+    "main.js": "/static/js/main.507a4785.js",
+    "static/media/appmovie.png": "/static/media/appmovie.bbca9b98fa891241fca7.png",
+    "static/media/prodozen.png": "/static/media/prodozen.9af68ebc364cd6f5fe53.png",
+    "static/media/wal.png": "/static/media/wal.56e0c3f2ba1abff94369.png",
+    "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/jcrew.png": "/static/media/jcrew.5a84340898bab7e5640a.png",
+    "static/media/profile.png": "/static/media/profile.82e4d7274bcd8fdb1eef.png",
+    "static/media/bgIMG.png": "/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about03.jpg": "/static/media/about03.10415744af63cfffdcf2.jpg",
+    "static/media/profile2.gif": "/static/media/profile2.65d1cc6ec2eff7dea76e.gif",
+    "static/media/about01.png": "/static/media/about01.baa7b641d7987334c80b.png",
+    "static/media/Rajshree-Rajoliya-Resume.pdf": "/static/media/Rajshree-Rajoliya-Resume.438c73a50c8a34f97f97.pdf",
+    "static/media/logo.png": "/static/media/logo.c3155bc0c6a1c18236b6.png",
+    "static/media/postman.png": "/static/media/postman.800dfa15e5b57ae02208.png",
+    "static/media/about02.jpg": "/static/media/about02.e2d2d48245ed44bdf2bc.jpg",
+    "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/mongodb.png": "/static/media/mongodb.c5537dea5c62c3b7030d.png",
+    "static/media/sass.png": "/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/express.png": "/static/media/express.70ef50a246c3bfa93f0b.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/next.png": "/static/media/next.9f8054a6dc0837262000.png",
+    "static/media/github.png": "/static/media/github.c8007a9fb185cb152ee6.png",
+    "static/media/css.png": "/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/mui.svg": "/static/media/mui.537777583e7072f9a35ca1933de99644.svg",
     "index.html": "/index.html",
-    "main.143c25de.css.map": "/static/css/main.143c25de.css.map",
-    "main.9cd06b86.js.map": "/static/js/main.9cd06b86.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.90ac94b1.css.map": "/static/css/main.90ac94b1.css.map",
+    "main.507a4785.js.map": "/static/js/main.507a4785.js.map"
   },
   "entrypoints": [
-    "static/css/main.143c25de.css",
-    "static/js/main.9cd06b86.js"
+    "static/css/main.90ac94b1.css",
+    "static/js/main.507a4785.js"
   ]
 }
